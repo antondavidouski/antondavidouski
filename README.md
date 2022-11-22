@@ -1,1 +1,1 @@
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antondavidouski)](https://github.com/anuraghazra/github-readme-stats)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antondavidouski)]
