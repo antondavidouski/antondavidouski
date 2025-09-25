@@ -13,7 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
 
 ### **Frameworks & Libraries**  
@@ -27,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)  
 
